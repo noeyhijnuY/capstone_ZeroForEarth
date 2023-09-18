@@ -24,7 +24,7 @@
 [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white">](https://youtu.be/o9jH5xq37ts?si=fhGAZkEZMwYPhvs0)
 <br>
 
-## 프로세스 및 UI
+## 🔎 프로세스 및 UI
 <details>
 <summary> 프로세스 및 UI 펼치기 </summary>
 <div markdown="1">
